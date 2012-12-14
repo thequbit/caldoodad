@@ -1,0 +1,26 @@
+/* 
+ * 
+ * CSS file for calendar widget 
+ *
+ */
+
+div.caldoodadtop
+{
+	border: 1px solid #242;
+	border-collapse: collapse;
+	border-spacing: 0;
+	/*
+	width: 98%;
+	margin-bottom: 1em;
+	*/
+}
+
+div.day
+{
+	border: 1px solid #BBB;
+	color: #777;
+	text-align: right;
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+}
